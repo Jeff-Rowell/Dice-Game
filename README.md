@@ -5,7 +5,8 @@ java -jar (Copy the DiceGame.jar file and paste it here). The next step is to ty
 the user’s choice of whether to play using a dialog pop up’s, or typing in the console. Press enter/return to 
 begin the game. Follow along with the prompts and enjoy the DiceGame! 
 
-Description:
+**Description:**
+
 The user begins the DiceGame with a set amount of tokens(100) that they can use to bet on what the dice will 
 roll. The betting amount for each round played is 10 tokens. If the user rolls a 2,3, or 12 the user looses and
 does not get back the tokens they bet. If they player rolls a 7 or 11 they win, and 20 tokens will be returned to 
